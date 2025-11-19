@@ -1,0 +1,77 @@
+{
+    "id": 1064213,
+    "type": "movie",
+    "title": "Anora",
+    "original_title": "Anora",
+    "release_date": "2024-10-14",
+    "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+    "vote_average": 7.05,
+    "popularity": 15.6939,
+    "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+    ],
+    "runtime": 139,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 1640439,
+            "name": "Mikey Madison",
+            "character": "Ani"
+        },
+        {
+            "id": 3051936,
+            "name": "Mark Eydelshteyn",
+            "character": "Ivan"
+        },
+        {
+            "id": 1266686,
+            "name": "Yura Borisov",
+            "character": "Igor"
+        },
+        {
+            "id": 966306,
+            "name": "Karren Karagulian",
+            "character": "Toros"
+        },
+        {
+            "id": 4338956,
+            "name": "Vache Tovmasyan",
+            "character": "Garnik"
+        },
+        {
+            "id": 4670423,
+            "name": "Luna Sofía Miranda",
+            "character": "Lulu"
+        },
+        {
+            "id": 2353434,
+            "name": "Lindsey Normington",
+            "character": "Diamond"
+        },
+        {
+            "id": 1163599,
+            "name": "Darya Ekamasova",
+            "character": "Galina Zakharov"
+        },
+        {
+            "id": 113332,
+            "name": "Aleksey Serebryakov",
+            "character": "Nikolai Zakharov"
+        },
+        {
+            "id": 4937028,
+            "name": "Anton Bitter",
+            "character": "Tom"
+        }
+    ],
+    "directors": [
+        {
+            "id": 118415,
+            "name": "Sean Baker"
+        }
+    ],
+    "_note": "All data in English"
+}

@@ -1,0 +1,77 @@
+{
+    "id": 714,
+    "type": "movie",
+    "title": "Tomorrow Never Dies",
+    "original_title": "Tomorrow Never Dies",
+    "release_date": "1997-12-11",
+    "overview": "A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now James Bond must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.",
+    "vote_average": 6.4,
+    "popularity": 3.4954,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 119,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 517,
+            "name": "Pierce Brosnan",
+            "character": "James Bond"
+        },
+        {
+            "id": 378,
+            "name": "Jonathan Pryce",
+            "character": "Elliot Carver"
+        },
+        {
+            "id": 1620,
+            "name": "Michelle Yeoh",
+            "character": "Wai Lin"
+        },
+        {
+            "id": 10742,
+            "name": "Teri Hatcher",
+            "character": "Paris Carver"
+        },
+        {
+            "id": 10743,
+            "name": "Ricky Jay",
+            "character": "Henry Gupta"
+        },
+        {
+            "id": 10744,
+            "name": "Götz Otto",
+            "character": "Stamper"
+        },
+        {
+            "id": 10671,
+            "name": "Joe Don Baker",
+            "character": "Wade"
+        },
+        {
+            "id": 3418,
+            "name": "Vincent Schiavelli",
+            "character": "Dr. Kaufman"
+        },
+        {
+            "id": 5309,
+            "name": "Judi Dench",
+            "character": "M"
+        },
+        {
+            "id": 9906,
+            "name": "Desmond Llewelyn",
+            "character": "Q"
+        }
+    ],
+    "directors": [
+        {
+            "id": 1724,
+            "name": "Roger Spottiswoode"
+        }
+    ],
+    "_note": "All data in English"
+}

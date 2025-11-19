@@ -1,0 +1,77 @@
+{
+    "id": 682,
+    "type": "movie",
+    "title": "The Man with the Golden Gun",
+    "original_title": "The Man with the Golden Gun",
+    "release_date": "1974-12-04",
+    "overview": "Cool government operative James Bond searches for a stolen invention that can turn the sun's heat into a destructive weapon. He soon crosses paths with the menacing Francisco Scaramanga, a hitman so skilled he has a seven-figure working fee. Bond then joins forces with the swimsuit-clad Mary Goodnight, and together they track Scaramanga to a Thai tropical isle hideout where the killer-for-hire lures the slick spy into a deadly maze for a final duel.",
+    "vote_average": 6.5,
+    "popularity": 5.1622,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 125,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10222,
+            "name": "Roger Moore",
+            "character": "James Bond"
+        },
+        {
+            "id": 113,
+            "name": "Christopher Lee",
+            "character": "Francisco Scaramanga"
+        },
+        {
+            "id": 10341,
+            "name": "Britt Ekland",
+            "character": "Mary Goodnight"
+        },
+        {
+            "id": 10342,
+            "name": "Maud Adams",
+            "character": "Andrea Anders"
+        },
+        {
+            "id": 10343,
+            "name": "Hervé Villechaize",
+            "character": "Nick Nack"
+        },
+        {
+            "id": 10224,
+            "name": "Clifton James",
+            "character": "Sheriff J.W. Pepper"
+        },
+        {
+            "id": 10344,
+            "name": "Richard Loo",
+            "character": "Hai Fat"
+        },
+        {
+            "id": 10345,
+            "name": "Soon-Tek Oh",
+            "character": "Lieutenant Hip"
+        },
+        {
+            "id": 3140,
+            "name": "Marc Lawrence",
+            "character": "Rodney"
+        },
+        {
+            "id": 9874,
+            "name": "Bernard Lee",
+            "character": "M"
+        }
+    ],
+    "directors": [
+        {
+            "id": 9915,
+            "name": "Guy Hamilton"
+        }
+    ],
+    "_note": "All data in English"
+}

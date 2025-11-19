@@ -1,0 +1,77 @@
+{
+    "id": 755679,
+    "type": "movie",
+    "title": "Fast X: Part 2",
+    "original_title": "Fast X: Part 2",
+    "release_date": "",
+    "overview": "The eleventh installment in The Fast Saga, and a direct sequel to \"Fast X\".",
+    "vote_average": 0.0,
+    "popularity": 10.8588,
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "runtime": 0,
+    "number_of_seasons": null,
+    "status": "Rumored",
+    "cast": [
+        {
+            "id": 12835,
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "id": 976,
+            "name": "Jason Statham",
+            "character": "Deckard Shaw"
+        },
+        {
+            "id": 17647,
+            "name": "Michelle Rodriguez",
+            "character": "Letty Ortiz"
+        },
+        {
+            "id": 8169,
+            "name": "Tyrese Gibson",
+            "character": "Roman Pearce"
+        },
+        {
+            "id": 8171,
+            "name": "Ludacris",
+            "character": "Tej Parker"
+        },
+        {
+            "id": 1251069,
+            "name": "Nathalie Emmanuel",
+            "character": "Ramsey"
+        },
+        {
+            "id": 22123,
+            "name": "Jordana Brewster",
+            "character": "Mia Toretto"
+        },
+        {
+            "id": 61697,
+            "name": "Sung Kang",
+            "character": "Han Lue"
+        },
+        {
+            "id": 90633,
+            "name": "Gal Gadot",
+            "character": "Gisele Yashar"
+        },
+        {
+            "id": 117642,
+            "name": "Jason Momoa",
+            "character": "Dante Reyes"
+        }
+    ],
+    "directors": [
+        {
+            "id": 18865,
+            "name": "Louis Leterrier"
+        }
+    ],
+    "_note": "All data in English"
+}

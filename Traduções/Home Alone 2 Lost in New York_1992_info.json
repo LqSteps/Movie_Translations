@@ -1,0 +1,77 @@
+{
+    "id": 772,
+    "type": "movie",
+    "title": "Home Alone 2: Lost in New York",
+    "original_title": "Home Alone 2: Lost in New York",
+    "release_date": "1992-11-15",
+    "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+    "vote_average": 6.768,
+    "popularity": 18.3792,
+    "genres": [
+        "Comedy",
+        "Family",
+        "Adventure"
+    ],
+    "runtime": 120,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 11510,
+            "name": "Macaulay Culkin",
+            "character": "Kevin"
+        },
+        {
+            "id": 4517,
+            "name": "Joe Pesci",
+            "character": "Harry"
+        },
+        {
+            "id": 11511,
+            "name": "Daniel Stern",
+            "character": "Marv"
+        },
+        {
+            "id": 11514,
+            "name": "Catherine O'Hara",
+            "character": "Kate"
+        },
+        {
+            "id": 11512,
+            "name": "John Heard",
+            "character": "Peter"
+        },
+        {
+            "id": 18345,
+            "name": "Brenda Fricker",
+            "character": "Pigeon Lady"
+        },
+        {
+            "id": 13472,
+            "name": "Tim Curry",
+            "character": "Concierge"
+        },
+        {
+            "id": 11516,
+            "name": "Devin Ratray",
+            "character": "Buzz"
+        },
+        {
+            "id": 11517,
+            "name": "Gerry Bamman",
+            "character": "Uncle Frank"
+        },
+        {
+            "id": 60949,
+            "name": "Rob Schneider",
+            "character": "Bellman"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10965,
+            "name": "Chris Columbus"
+        }
+    ],
+    "_note": "All data in English"
+}

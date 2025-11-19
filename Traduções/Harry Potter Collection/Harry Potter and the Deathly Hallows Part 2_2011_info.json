@@ -1,0 +1,76 @@
+{
+    "id": 12445,
+    "type": "movie",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+    "release_date": "2011-07-12",
+    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+    "vote_average": 8.083,
+    "popularity": 17.5346,
+    "genres": [
+        "Fantasy",
+        "Adventure"
+    ],
+    "runtime": 130,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10980,
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "id": 10990,
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "id": 10989,
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "id": 5469,
+            "name": "Ralph Fiennes",
+            "character": "Lord Voldemort"
+        },
+        {
+            "id": 4566,
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "id": 5658,
+            "name": "Michael Gambon",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "id": 11184,
+            "name": "Warwick Davis",
+            "character": "Griphook / Filius Flitwick"
+        },
+        {
+            "id": 1283,
+            "name": "Helena Bonham Carter",
+            "character": "Bellatrix Lestrange"
+        },
+        {
+            "id": 8785,
+            "name": "Ciarán Hinds",
+            "character": "Aberforth Dumbledore"
+        },
+        {
+            "id": 96841,
+            "name": "Matthew Lewis",
+            "character": "Neville Longbottom"
+        }
+    ],
+    "directors": [
+        {
+            "id": 11343,
+            "name": "David Yates"
+        }
+    ],
+    "_note": "All data in English"
+}

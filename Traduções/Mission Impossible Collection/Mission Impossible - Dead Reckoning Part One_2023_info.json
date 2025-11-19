@@ -1,0 +1,76 @@
+{
+    "id": 575264,
+    "type": "movie",
+    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "original_title": "Mission: Impossible - Dead Reckoning Part One",
+    "release_date": "2023-07-08",
+    "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+    "vote_average": 7.5,
+    "popularity": 10.6885,
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 164,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 500,
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "id": 39459,
+            "name": "Hayley Atwell",
+            "character": "Grace"
+        },
+        {
+            "id": 10182,
+            "name": "Ving Rhames",
+            "character": "Luther Stickell"
+        },
+        {
+            "id": 11108,
+            "name": "Simon Pegg",
+            "character": "Benji Dunn"
+        },
+        {
+            "id": 933238,
+            "name": "Rebecca Ferguson",
+            "character": "Ilsa Faust"
+        },
+        {
+            "id": 556356,
+            "name": "Vanessa Kirby",
+            "character": "The White Widow"
+        },
+        {
+            "id": 65344,
+            "name": "Esai Morales",
+            "character": "Gabriel"
+        },
+        {
+            "id": 139820,
+            "name": "Pom Klementieff",
+            "character": "Paris"
+        },
+        {
+            "id": 15319,
+            "name": "Henry Czerny",
+            "character": "Kittridge"
+        },
+        {
+            "id": 74242,
+            "name": "Shea Whigham",
+            "character": "Briggs"
+        }
+    ],
+    "directors": [
+        {
+            "id": 9033,
+            "name": "Christopher McQuarrie"
+        }
+    ],
+    "_note": "All data in English"
+}

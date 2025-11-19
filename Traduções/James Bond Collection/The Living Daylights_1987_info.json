@@ -1,0 +1,77 @@
+{
+    "id": 708,
+    "type": "movie",
+    "title": "The Living Daylights",
+    "original_title": "The Living Daylights",
+    "release_date": "1987-06-29",
+    "overview": "After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.",
+    "vote_average": 6.5,
+    "popularity": 3.2532,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+    ],
+    "runtime": 130,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10669,
+            "name": "Timothy Dalton",
+            "character": "James Bond"
+        },
+        {
+            "id": 10670,
+            "name": "Maryam D'Abo",
+            "character": "Kara Milovy"
+        },
+        {
+            "id": 10671,
+            "name": "Joe Don Baker",
+            "character": "Brad Whitaker"
+        },
+        {
+            "id": 10672,
+            "name": "Art Malik",
+            "character": "Kamran Shah"
+        },
+        {
+            "id": 655,
+            "name": "John Rhys-Davies",
+            "character": "General Leonid Pushkin"
+        },
+        {
+            "id": 1924,
+            "name": "Jeroen Krabbé",
+            "character": "General Georgi Koskov"
+        },
+        {
+            "id": 10673,
+            "name": "Andreas Wisniewski",
+            "character": "Necros"
+        },
+        {
+            "id": 10674,
+            "name": "Thomas Wheatley",
+            "character": "Saunders"
+        },
+        {
+            "id": 9906,
+            "name": "Desmond Llewelyn",
+            "character": "Q"
+        },
+        {
+            "id": 10513,
+            "name": "Robert Brown",
+            "character": "M"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10179,
+            "name": "John Glen"
+        }
+    ],
+    "_note": "All data in English"
+}

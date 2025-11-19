@@ -1,0 +1,50 @@
+{
+    "id": 1566991,
+    "type": "movie",
+    "title": "Grown Ups 3",
+    "original_title": "Grown Ups 3",
+    "release_date": "",
+    "overview": "When a surprise inheritance lands Lenny, Eric, Kurt, Marcus, and Rob control of their childhood summer camp, they reunite for one last hurrah.",
+    "vote_average": 0.0,
+    "popularity": 0.5341,
+    "genres": [
+        "Comedy"
+    ],
+    "runtime": 0,
+    "number_of_seasons": null,
+    "status": "Planned",
+    "cast": [
+        {
+            "id": 19292,
+            "name": "Adam Sandler",
+            "character": "Lenny Feder"
+        },
+        {
+            "id": 32895,
+            "name": "Kevin James",
+            "character": "Eric Lamonsoff"
+        },
+        {
+            "id": 2632,
+            "name": "Chris Rock",
+            "character": "Kurt McKenzie"
+        },
+        {
+            "id": 60950,
+            "name": "David Spade",
+            "character": "Marcus Higgins"
+        },
+        {
+            "id": 60949,
+            "name": "Rob Schneider",
+            "character": "Rob Hilliard"
+        }
+    ],
+    "directors": [
+        {
+            "id": 17494,
+            "name": "Dennis Dugan"
+        }
+    ],
+    "_note": "All data in English"
+}

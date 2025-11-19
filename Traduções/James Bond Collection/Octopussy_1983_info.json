@@ -1,0 +1,77 @@
+{
+    "id": 700,
+    "type": "movie",
+    "title": "Octopussy",
+    "original_title": "Octopussy",
+    "release_date": "1983-06-05",
+    "overview": "James Bond is sent to investigate after a fellow “00” agent is found dead with a priceless Indian Fabergé egg. Bond follows the mystery and uncovers a smuggling scandal and a Russian General who wants to provoke a new World War.",
+    "vote_average": 6.4,
+    "popularity": 4.6374,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 131,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10222,
+            "name": "Roger Moore",
+            "character": "James Bond"
+        },
+        {
+            "id": 10342,
+            "name": "Maud Adams",
+            "character": "Octopussy"
+        },
+        {
+            "id": 10508,
+            "name": "Louis Jourdan",
+            "character": "Kamal Khan"
+        },
+        {
+            "id": 10509,
+            "name": "Kristina Wayborn",
+            "character": "Magda"
+        },
+        {
+            "id": 10510,
+            "name": "Kabir Bedi",
+            "character": "Gobinda"
+        },
+        {
+            "id": 782,
+            "name": "Steven Berkoff",
+            "character": "Orlov"
+        },
+        {
+            "id": 1233481,
+            "name": "Vijay Amritraj",
+            "character": "Vijay"
+        },
+        {
+            "id": 9906,
+            "name": "Desmond Llewelyn",
+            "character": "Q"
+        },
+        {
+            "id": 9878,
+            "name": "Lois Maxwell",
+            "character": "Miss Moneypenny"
+        },
+        {
+            "id": 10513,
+            "name": "Robert Brown",
+            "character": "M"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10179,
+            "name": "John Glen"
+        }
+    ],
+    "_note": "All data in English"
+}

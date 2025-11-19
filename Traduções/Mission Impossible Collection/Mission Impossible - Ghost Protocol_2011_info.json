@@ -1,0 +1,77 @@
+{
+    "id": 56292,
+    "type": "movie",
+    "title": "Mission: Impossible - Ghost Protocol",
+    "original_title": "Mission: Impossible - Ghost Protocol",
+    "release_date": "2011-12-07",
+    "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+    "vote_average": 7.106,
+    "popularity": 7.4369,
+    "genres": [
+        "Action",
+        "Thriller",
+        "Adventure"
+    ],
+    "runtime": 133,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 500,
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "id": 52851,
+            "name": "Paula Patton",
+            "character": "Jane"
+        },
+        {
+            "id": 11108,
+            "name": "Simon Pegg",
+            "character": "Benji"
+        },
+        {
+            "id": 17604,
+            "name": "Jeremy Renner",
+            "character": "Brandt"
+        },
+        {
+            "id": 6283,
+            "name": "Michael Nyqvist",
+            "character": "Hendricks"
+        },
+        {
+            "id": 86151,
+            "name": "Vladimir Mashkov",
+            "character": "Sidorov"
+        },
+        {
+            "id": 92428,
+            "name": "Samuli Edelmann",
+            "character": "Wistrom"
+        },
+        {
+            "id": 6079,
+            "name": "Ivan Shvedoff",
+            "character": "Leonid Lisenker"
+        },
+        {
+            "id": 72118,
+            "name": "Anil Kapoor",
+            "character": "Brij Nath"
+        },
+        {
+            "id": 121529,
+            "name": "Léa Seydoux",
+            "character": "Sabine Moreau"
+        }
+    ],
+    "directors": [
+        {
+            "id": 7087,
+            "name": "Brad Bird"
+        }
+    ],
+    "_note": "All data in English"
+}

@@ -1,0 +1,77 @@
+{
+    "id": 709,
+    "type": "movie",
+    "title": "Licence to Kill",
+    "original_title": "Licence to Kill",
+    "release_date": "1989-06-13",
+    "overview": "After capturing the notorious drug lord Franz Sanchez, Bond's close friend and former CIA agent Felix Leiter is left for dead and his wife is murdered. Bond goes rogue and seeks vengeance on those responsible, as he infiltrates Sanchez's organization from the inside.",
+    "vote_average": 6.4,
+    "popularity": 3.6383,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 133,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10669,
+            "name": "Timothy Dalton",
+            "character": "James Bond"
+        },
+        {
+            "id": 10679,
+            "name": "Carey Lowell",
+            "character": "Pam Bouvier"
+        },
+        {
+            "id": 2055,
+            "name": "Robert Davi",
+            "character": "Franz Sanchez"
+        },
+        {
+            "id": 10680,
+            "name": "Talisa Soto",
+            "character": "Lupe Lamora"
+        },
+        {
+            "id": 2516,
+            "name": "Anthony Zerbe",
+            "character": "Milton Krest"
+        },
+        {
+            "id": 1735,
+            "name": "Frank McRae",
+            "character": "Sharkey"
+        },
+        {
+            "id": 5616,
+            "name": "Everett McGill",
+            "character": "Killifer"
+        },
+        {
+            "id": 10681,
+            "name": "Wayne Newton",
+            "character": "Professor Joe Butcher"
+        },
+        {
+            "id": 1121,
+            "name": "Benicio del Toro",
+            "character": "Dario"
+        },
+        {
+            "id": 10682,
+            "name": "Anthony Starke",
+            "character": "Truman-Lodge"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10179,
+            "name": "John Glen"
+        }
+    ],
+    "_note": "All data in English"
+}

@@ -1,0 +1,77 @@
+{
+    "id": 680,
+    "type": "movie",
+    "title": "Pulp Fiction",
+    "original_title": "Pulp Fiction",
+    "release_date": "1994-09-10",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "vote_average": 8.488,
+    "popularity": 16.5468,
+    "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+    ],
+    "runtime": 154,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 8891,
+            "name": "John Travolta",
+            "character": "Vincent Vega"
+        },
+        {
+            "id": 2231,
+            "name": "Samuel L. Jackson",
+            "character": "Jules Winnfield"
+        },
+        {
+            "id": 139,
+            "name": "Uma Thurman",
+            "character": "Mia Wallace"
+        },
+        {
+            "id": 62,
+            "name": "Bruce Willis",
+            "character": "Butch Coolidge"
+        },
+        {
+            "id": 10182,
+            "name": "Ving Rhames",
+            "character": "Marsellus Wallace"
+        },
+        {
+            "id": 1037,
+            "name": "Harvey Keitel",
+            "character": "The Wolf"
+        },
+        {
+            "id": 7036,
+            "name": "Eric Stoltz",
+            "character": "Lance"
+        },
+        {
+            "id": 3129,
+            "name": "Tim Roth",
+            "character": "Pumpkin"
+        },
+        {
+            "id": 99,
+            "name": "Amanda Plummer",
+            "character": "Honey Bunny"
+        },
+        {
+            "id": 2319,
+            "name": "Maria de Medeiros",
+            "character": "Fabienne"
+        }
+    ],
+    "directors": [
+        {
+            "id": 138,
+            "name": "Quentin Tarantino"
+        }
+    ],
+    "_note": "All data in English"
+}

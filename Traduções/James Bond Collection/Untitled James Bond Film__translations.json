@@ -1,0 +1,52 @@
+[
+    {
+        "titulo_original": "Untitled James Bond Film",
+        "tmdb_id": 1184696,
+        "tipo": "movie",
+        "idioma": "en",
+        "pais": "US",
+        "nome_idioma": "English",
+        "titulo_traduzido": "",
+        "sinopse_traduzida": "A new iteration of the character and the first film under the control of Amazon MGM. Details TBA."
+    },
+    {
+        "titulo_original": "Untitled James Bond Film",
+        "tmdb_id": 1184696,
+        "tipo": "movie",
+        "idioma": "de",
+        "pais": "DE",
+        "nome_idioma": "German",
+        "titulo_traduzido": "",
+        "sinopse_traduzida": ""
+    },
+    {
+        "titulo_original": "Untitled James Bond Film",
+        "tmdb_id": 1184696,
+        "tipo": "movie",
+        "idioma": "uk",
+        "pais": "UA",
+        "nome_idioma": "Ukrainian",
+        "titulo_traduzido": "",
+        "sinopse_traduzida": ""
+    },
+    {
+        "titulo_original": "Untitled James Bond Film",
+        "tmdb_id": 1184696,
+        "tipo": "movie",
+        "idioma": "ko",
+        "pais": "KR",
+        "nome_idioma": "Korean",
+        "titulo_traduzido": "본드 26",
+        "sinopse_traduzida": ""
+    },
+    {
+        "titulo_original": "Untitled James Bond Film",
+        "tmdb_id": 1184696,
+        "tipo": "movie",
+        "idioma": "tr",
+        "pais": "TR",
+        "nome_idioma": "Turkish",
+        "titulo_traduzido": "",
+        "sinopse_traduzida": ""
+    }
+]

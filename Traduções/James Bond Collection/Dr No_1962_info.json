@@ -1,0 +1,77 @@
+{
+    "id": 646,
+    "type": "movie",
+    "title": "Dr. No",
+    "original_title": "Dr. No",
+    "release_date": "1962-10-07",
+    "overview": "Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.",
+    "vote_average": 6.989,
+    "popularity": 6.2555,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 110,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 738,
+            "name": "Sean Connery",
+            "character": "James Bond"
+        },
+        {
+            "id": 9871,
+            "name": "Ursula Andress",
+            "character": "Honey Ryder"
+        },
+        {
+            "id": 9872,
+            "name": "Joseph Wiseman",
+            "character": "Dr. No"
+        },
+        {
+            "id": 9873,
+            "name": "Jack Lord",
+            "character": "Felix Leiter"
+        },
+        {
+            "id": 7682,
+            "name": "Anthony Dawson",
+            "character": "Professor R. J. Dent"
+        },
+        {
+            "id": 9875,
+            "name": "Zena Marshall",
+            "character": "Miss Taro"
+        },
+        {
+            "id": 9876,
+            "name": "John Kitzmiller",
+            "character": "Quarrel"
+        },
+        {
+            "id": 9877,
+            "name": "Eunice Gayson",
+            "character": "Sylvia Trench"
+        },
+        {
+            "id": 9874,
+            "name": "Bernard Lee",
+            "character": "M"
+        },
+        {
+            "id": 9878,
+            "name": "Lois Maxwell",
+            "character": "Miss Moneypenny"
+        }
+    ],
+    "directors": [
+        {
+            "id": 9855,
+            "name": "Terence Young"
+        }
+    ],
+    "_note": "All data in English"
+}

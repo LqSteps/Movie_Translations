@@ -1,0 +1,77 @@
+{
+    "id": 956,
+    "type": "movie",
+    "title": "Mission: Impossible III",
+    "original_title": "Mission: Impossible III",
+    "release_date": "2006-04-25",
+    "overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear – including the woman Hunt loves.",
+    "vote_average": 6.8,
+    "popularity": 9.286,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 126,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 500,
+            "name": "Tom Cruise",
+            "character": "Ethan Hunt"
+        },
+        {
+            "id": 1233,
+            "name": "Philip Seymour Hoffman",
+            "character": "Owen Davian"
+        },
+        {
+            "id": 10182,
+            "name": "Ving Rhames",
+            "character": "Luther"
+        },
+        {
+            "id": 8289,
+            "name": "Billy Crudup",
+            "character": "Musgrave"
+        },
+        {
+            "id": 11705,
+            "name": "Michelle Monaghan",
+            "character": "Julia"
+        },
+        {
+            "id": 1244,
+            "name": "Jonathan Rhys Meyers",
+            "character": "Declan"
+        },
+        {
+            "id": 41292,
+            "name": "Keri Russell",
+            "character": "Lindsey Farris"
+        },
+        {
+            "id": 21045,
+            "name": "Maggie Q",
+            "character": "Zhen"
+        },
+        {
+            "id": 11108,
+            "name": "Simon Pegg",
+            "character": "Benji"
+        },
+        {
+            "id": 1665,
+            "name": "Eddie Marsan",
+            "character": "Brownway"
+        }
+    ],
+    "directors": [
+        {
+            "id": 15344,
+            "name": "J.J. Abrams"
+        }
+    ],
+    "_note": "All data in English"
+}

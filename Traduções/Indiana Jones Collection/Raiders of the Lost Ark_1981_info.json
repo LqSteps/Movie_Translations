@@ -1,0 +1,76 @@
+{
+    "id": 85,
+    "type": "movie",
+    "title": "Raiders of the Lost Ark",
+    "original_title": "Raiders of the Lost Ark",
+    "release_date": "1981-06-12",
+    "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "vote_average": 7.9,
+    "popularity": 8.0711,
+    "genres": [
+        "Adventure",
+        "Action"
+    ],
+    "runtime": 115,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 3,
+            "name": "Harrison Ford",
+            "character": "Indiana Jones"
+        },
+        {
+            "id": 650,
+            "name": "Karen Allen",
+            "character": "Marion Ravenwood"
+        },
+        {
+            "id": 652,
+            "name": "Paul Freeman",
+            "character": "Dr. René Belloq"
+        },
+        {
+            "id": 655,
+            "name": "John Rhys-Davies",
+            "character": "Sallah"
+        },
+        {
+            "id": 653,
+            "name": "Ronald Lacey",
+            "character": "Major Arnold Toht"
+        },
+        {
+            "id": 659,
+            "name": "Wolf Kahler",
+            "character": "Colonel Dietrich"
+        },
+        {
+            "id": 660,
+            "name": "Anthony Higgins",
+            "character": "Gobler"
+        },
+        {
+            "id": 656,
+            "name": "Denholm Elliott",
+            "character": "Dr. Marcus Brody"
+        },
+        {
+            "id": 658,
+            "name": "Alfred Molina",
+            "character": "Satipo"
+        },
+        {
+            "id": 661,
+            "name": "Vic Tablian",
+            "character": "Barranca / Monkey Man"
+        }
+    ],
+    "directors": [
+        {
+            "id": 488,
+            "name": "Steven Spielberg"
+        }
+    ],
+    "_note": "All data in English"
+}

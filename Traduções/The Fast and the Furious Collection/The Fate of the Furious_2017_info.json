@@ -1,0 +1,77 @@
+{
+    "id": 337339,
+    "type": "movie",
+    "title": "The Fate of the Furious",
+    "original_title": "The Fate of the Furious",
+    "release_date": "2017-04-12",
+    "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+    "vote_average": 6.862,
+    "popularity": 8.9589,
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "runtime": 136,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 12835,
+            "name": "Vin Diesel",
+            "character": "Dominic Toretto"
+        },
+        {
+            "id": 976,
+            "name": "Jason Statham",
+            "character": "Deckard Shaw"
+        },
+        {
+            "id": 18918,
+            "name": "Dwayne Johnson",
+            "character": "Luke Hobbs"
+        },
+        {
+            "id": 17647,
+            "name": "Michelle Rodriguez",
+            "character": "Letty Ortiz"
+        },
+        {
+            "id": 8169,
+            "name": "Tyrese Gibson",
+            "character": "Roman Pearce"
+        },
+        {
+            "id": 8171,
+            "name": "Ludacris",
+            "character": "Tej Parker"
+        },
+        {
+            "id": 6885,
+            "name": "Charlize Theron",
+            "character": "Cipher"
+        },
+        {
+            "id": 6856,
+            "name": "Kurt Russell",
+            "character": "Mr. Nobody"
+        },
+        {
+            "id": 1251069,
+            "name": "Nathalie Emmanuel",
+            "character": "Ramsey"
+        },
+        {
+            "id": 114019,
+            "name": "Luke Evans",
+            "character": "Owen Shaw"
+        }
+    ],
+    "directors": [
+        {
+            "id": 37932,
+            "name": "F. Gary Gray"
+        }
+    ],
+    "_note": "All data in English"
+}

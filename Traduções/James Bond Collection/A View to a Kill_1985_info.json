@@ -1,0 +1,77 @@
+{
+    "id": 707,
+    "type": "movie",
+    "title": "A View to a Kill",
+    "original_title": "A View to a Kill",
+    "release_date": "1985-05-24",
+    "overview": "A newly-developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin who forms a plan to destroy his only competition in Silicon Valley by triggering a massive earthquake in the San Francisco Bay.",
+    "vote_average": 6.2,
+    "popularity": 3.8456,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 131,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10222,
+            "name": "Roger Moore",
+            "character": "James Bond"
+        },
+        {
+            "id": 10660,
+            "name": "Tanya Roberts",
+            "character": "Stacey Sutton"
+        },
+        {
+            "id": 4690,
+            "name": "Christopher Walken",
+            "character": "Max Zorin"
+        },
+        {
+            "id": 10661,
+            "name": "Grace Jones",
+            "character": "May Day"
+        },
+        {
+            "id": 10662,
+            "name": "Patrick Macnee",
+            "character": "Tibbett"
+        },
+        {
+            "id": 5274,
+            "name": "Patrick Bauchau",
+            "character": "Scarpine"
+        },
+        {
+            "id": 696,
+            "name": "David Yip",
+            "character": "Chuck Lee"
+        },
+        {
+            "id": 10663,
+            "name": "Fiona Fullerton",
+            "character": "Pola Ivanova"
+        },
+        {
+            "id": 99366,
+            "name": "Manning Redwood",
+            "character": "Bob Conley"
+        },
+        {
+            "id": 739,
+            "name": "Alison Doody",
+            "character": "Jenny Flex"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10179,
+            "name": "John Glen"
+        }
+    ],
+    "_note": "All data in English"
+}

@@ -1,0 +1,76 @@
+{
+    "id": 673,
+    "type": "movie",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "original_title": "Harry Potter and the Prisoner of Azkaban",
+    "release_date": "2004-05-31",
+    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "vote_average": 8.01,
+    "popularity": 20.2945,
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "runtime": 141,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10980,
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "id": 10989,
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "id": 10990,
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "id": 1923,
+            "name": "Robbie Coltrane",
+            "character": "Rubeus Hagrid"
+        },
+        {
+            "id": 5658,
+            "name": "Michael Gambon",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "id": 64,
+            "name": "Gary Oldman",
+            "character": "Sirius Black"
+        },
+        {
+            "id": 11207,
+            "name": "David Thewlis",
+            "character": "Remus Lupin"
+        },
+        {
+            "id": 9191,
+            "name": "Timothy Spall",
+            "character": "Peter Pettigrew"
+        },
+        {
+            "id": 4566,
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "id": 10993,
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        }
+    ],
+    "directors": [
+        {
+            "id": 11218,
+            "name": "Alfonso Cuarón"
+        }
+    ],
+    "_note": "All data in English"
+}

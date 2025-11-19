@@ -1,0 +1,77 @@
+{
+    "id": 691,
+    "type": "movie",
+    "title": "The Spy Who Loved Me",
+    "original_title": "The Spy Who Loved Me",
+    "release_date": "1977-07-07",
+    "overview": "Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.",
+    "vote_average": 6.8,
+    "popularity": 3.927,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 125,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10222,
+            "name": "Roger Moore",
+            "character": "James Bond"
+        },
+        {
+            "id": 10458,
+            "name": "Barbara Bach",
+            "character": "Major Anya Amasova"
+        },
+        {
+            "id": 10459,
+            "name": "Curd Jürgens",
+            "character": "Karl Stromberg"
+        },
+        {
+            "id": 10460,
+            "name": "Richard Kiel",
+            "character": "Jaws"
+        },
+        {
+            "id": 10461,
+            "name": "Caroline Munro",
+            "character": "Naomi"
+        },
+        {
+            "id": 6610,
+            "name": "Walter Gotell",
+            "character": "General Anatol Gogol"
+        },
+        {
+            "id": 10462,
+            "name": "Geoffrey Keen",
+            "character": "Sir Frederick Gray"
+        },
+        {
+            "id": 9874,
+            "name": "Bernard Lee",
+            "character": "M"
+        },
+        {
+            "id": 10173,
+            "name": "George Baker",
+            "character": "Captain Benson"
+        },
+        {
+            "id": 10463,
+            "name": "Michael Billington",
+            "character": "Sergei Barsov"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10076,
+            "name": "Lewis Gilbert"
+        }
+    ],
+    "_note": "All data in English"
+}

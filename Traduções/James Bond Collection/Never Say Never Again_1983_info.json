@@ -1,0 +1,77 @@
+{
+    "id": 36670,
+    "type": "movie",
+    "title": "Never Say Never Again",
+    "original_title": "Never Say Never Again",
+    "release_date": "1983-10-07",
+    "overview": "James Bond returns as the secret agent 007 to battle the evil organization SPECTRE. Bond must defeat Largo, who has stolen two atomic warheads for nuclear blackmail. But Bond has an ally in Largo's girlfriend, the willowy Domino, who falls for Bond and seeks revenge.",
+    "vote_average": 6.1,
+    "popularity": 9.4431,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 134,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 738,
+            "name": "Sean Connery",
+            "character": "James Bond"
+        },
+        {
+            "id": 10647,
+            "name": "Klaus Maria Brandauer",
+            "character": "Maximilian Largo"
+        },
+        {
+            "id": 2201,
+            "name": "Max von Sydow",
+            "character": "Ernst Stavro Blofeld"
+        },
+        {
+            "id": 10938,
+            "name": "Barbara Carrera",
+            "character": "Fatima Blush"
+        },
+        {
+            "id": 326,
+            "name": "Kim Basinger",
+            "character": "Domino Petachi"
+        },
+        {
+            "id": 10939,
+            "name": "Bernie Casey",
+            "character": "Felix Leiter"
+        },
+        {
+            "id": 8224,
+            "name": "Alec McCowen",
+            "character": "Q 'Algy' Algernon"
+        },
+        {
+            "id": 9126,
+            "name": "Edward Fox",
+            "character": "M"
+        },
+        {
+            "id": 115872,
+            "name": "Pamela Salem",
+            "character": "Miss Moneypenny"
+        },
+        {
+            "id": 10730,
+            "name": "Rowan Atkinson",
+            "character": "Nigel Small-Fawcett"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10930,
+            "name": "Irvin Kershner"
+        }
+    ],
+    "_note": "All data in English"
+}

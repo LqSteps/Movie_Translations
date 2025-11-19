@@ -1,0 +1,77 @@
+{
+    "id": 36643,
+    "type": "movie",
+    "title": "The World Is Not Enough",
+    "original_title": "The World Is Not Enough",
+    "release_date": "1999-11-17",
+    "overview": "Greed, revenge, world dominance and high-tech terrorism – it's all in a day's work for Bond, who's on a mission to protect a beautiful oil heiress from a notorious terrorist. In a race against time that culminates in a dramatic submarine showdown, Bond works to defuse the international power struggle that has the world's oil supply hanging in the balance.",
+    "vote_average": 6.3,
+    "popularity": 6.1713,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 128,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 517,
+            "name": "Pierce Brosnan",
+            "character": "James Bond"
+        },
+        {
+            "id": 1957,
+            "name": "Sophie Marceau",
+            "character": "Elektra"
+        },
+        {
+            "id": 18023,
+            "name": "Robert Carlyle",
+            "character": "Renard"
+        },
+        {
+            "id": 9205,
+            "name": "Denise Richards",
+            "character": "Christmas Jones"
+        },
+        {
+            "id": 1923,
+            "name": "Robbie Coltrane",
+            "character": "Valentin Zukovsky"
+        },
+        {
+            "id": 5309,
+            "name": "Judi Dench",
+            "character": "M"
+        },
+        {
+            "id": 9906,
+            "name": "Desmond Llewelyn",
+            "character": "Q"
+        },
+        {
+            "id": 8930,
+            "name": "John Cleese",
+            "character": "R"
+        },
+        {
+            "id": 10777,
+            "name": "Maria Grazia Cucinotta",
+            "character": "Cigar Girl"
+        },
+        {
+            "id": 10699,
+            "name": "Samantha Bond",
+            "character": "Miss Moneypenny"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10781,
+            "name": "Michael Apted"
+        }
+    ],
+    "_note": "All data in English"
+}

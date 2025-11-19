@@ -1,0 +1,77 @@
+{
+    "id": 512200,
+    "type": "movie",
+    "title": "Jumanji: The Next Level",
+    "original_title": "Jumanji: The Next Level",
+    "release_date": "2019-12-04",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "vote_average": 6.9,
+    "popularity": 11.2529,
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "runtime": 123,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 18918,
+            "name": "Dwayne Johnson",
+            "character": "Dr. Smolder Bravestone"
+        },
+        {
+            "id": 55638,
+            "name": "Kevin Hart",
+            "character": "Franklin 'Mouse' Finbar"
+        },
+        {
+            "id": 70851,
+            "name": "Jack Black",
+            "character": "Professor Sheldon 'Shelly' Oberon"
+        },
+        {
+            "id": 543261,
+            "name": "Karen Gillan",
+            "character": "Ruby Roundhouse"
+        },
+        {
+            "id": 1625558,
+            "name": "Awkwafina",
+            "character": "Ming"
+        },
+        {
+            "id": 130565,
+            "name": "Nick Jonas",
+            "character": "Jefferson 'Seaplane' McDonough"
+        },
+        {
+            "id": 934281,
+            "name": "Alex Wolff",
+            "character": "Spencer Gilpin"
+        },
+        {
+            "id": 1188567,
+            "name": "Morgan Turner",
+            "character": "Martha Kaply"
+        },
+        {
+            "id": 1597855,
+            "name": "Madison Iseman",
+            "character": "Bethany"
+        },
+        {
+            "id": 1160181,
+            "name": "Ser'Darius Blain",
+            "character": "Anthony 'Fridge' Johnson"
+        }
+    ],
+    "directors": [
+        {
+            "id": 51851,
+            "name": "Jake Kasdan"
+        }
+    ],
+    "_note": "All data in English"
+}

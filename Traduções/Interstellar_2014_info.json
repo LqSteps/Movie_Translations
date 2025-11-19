@@ -1,0 +1,77 @@
+{
+    "id": 157336,
+    "type": "movie",
+    "title": "Interstellar",
+    "original_title": "Interstellar",
+    "release_date": "2014-11-05",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "vote_average": 8.5,
+    "popularity": 35.1733,
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+    ],
+    "runtime": 169,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10297,
+            "name": "Matthew McConaughey",
+            "character": "Cooper"
+        },
+        {
+            "id": 1813,
+            "name": "Anne Hathaway",
+            "character": "Brand"
+        },
+        {
+            "id": 3895,
+            "name": "Michael Caine",
+            "character": "Professor Brand"
+        },
+        {
+            "id": 83002,
+            "name": "Jessica Chastain",
+            "character": "Murph"
+        },
+        {
+            "id": 1893,
+            "name": "Casey Affleck",
+            "character": "Tom"
+        },
+        {
+            "id": 8210,
+            "name": "Wes Bentley",
+            "character": "Doyle"
+        },
+        {
+            "id": 17052,
+            "name": "Topher Grace",
+            "character": "Getty"
+        },
+        {
+            "id": 851784,
+            "name": "Mackenzie Foy",
+            "character": "Murph (10 Yrs.)"
+        },
+        {
+            "id": 9560,
+            "name": "Ellen Burstyn",
+            "character": "Murph (older)"
+        },
+        {
+            "id": 12074,
+            "name": "John Lithgow",
+            "character": "Donald"
+        }
+    ],
+    "directors": [
+        {
+            "id": 525,
+            "name": "Christopher Nolan"
+        }
+    ],
+    "_note": "All data in English"
+}

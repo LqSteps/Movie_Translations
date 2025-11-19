@@ -1,0 +1,77 @@
+{
+    "id": 36557,
+    "type": "movie",
+    "title": "Casino Royale",
+    "original_title": "Casino Royale",
+    "release_date": "2006-11-14",
+    "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+    "vote_average": 7.566,
+    "popularity": 7.5883,
+    "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 144,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 8784,
+            "name": "Daniel Craig",
+            "character": "James Bond"
+        },
+        {
+            "id": 10912,
+            "name": "Eva Green",
+            "character": "Vesper Lynd"
+        },
+        {
+            "id": 1019,
+            "name": "Mads Mikkelsen",
+            "character": "Le Chiffre"
+        },
+        {
+            "id": 5309,
+            "name": "Judi Dench",
+            "character": "M"
+        },
+        {
+            "id": 2954,
+            "name": "Jeffrey Wright",
+            "character": "Felix Leiter"
+        },
+        {
+            "id": 3753,
+            "name": "Giancarlo Giannini",
+            "character": "Mathis"
+        },
+        {
+            "id": 10916,
+            "name": "Caterina Murino",
+            "character": "Solange"
+        },
+        {
+            "id": 10917,
+            "name": "Simon Abkarian",
+            "character": "Alex Dimitrios"
+        },
+        {
+            "id": 4812,
+            "name": "Isaach de Bankolé",
+            "character": "Steven Obanno"
+        },
+        {
+            "id": 2244,
+            "name": "Jesper Christensen",
+            "character": "Mr. White"
+        }
+    ],
+    "directors": [
+        {
+            "id": 10702,
+            "name": "Martin Campbell"
+        }
+    ],
+    "_note": "All data in English"
+}

@@ -1,0 +1,82 @@
+{
+    "id": 20352,
+    "type": "movie",
+    "title": "Despicable Me",
+    "original_title": "Despicable Me",
+    "release_date": "2010-07-08",
+    "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+    "vote_average": 7.254,
+    "popularity": 15.4323,
+    "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Science Fiction"
+    ],
+    "runtime": 95,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 4495,
+            "name": "Steve Carell",
+            "character": "Gru (voice)"
+        },
+        {
+            "id": 41088,
+            "name": "Jason Segel",
+            "character": "Vector (voice)"
+        },
+        {
+            "id": 17743,
+            "name": "Miranda Cosgrove",
+            "character": "Margo (voice)"
+        },
+        {
+            "id": 124750,
+            "name": "Dana Gaier",
+            "character": "Edith (voice)"
+        },
+        {
+            "id": 122851,
+            "name": "Elsie Fisher",
+            "character": "Agnes (voice)"
+        },
+        {
+            "id": 59919,
+            "name": "Russell Brand",
+            "character": "Dr. Nefario (voice)"
+        },
+        {
+            "id": 5823,
+            "name": "Julie Andrews",
+            "character": "Gru's Mother (voice)"
+        },
+        {
+            "id": 21200,
+            "name": "Will Arnett",
+            "character": "Mr. Perkins (voice)"
+        },
+        {
+            "id": 41091,
+            "name": "Kristen Wiig",
+            "character": "Miss Hattie (voice)"
+        },
+        {
+            "id": 124747,
+            "name": "Pierre Coffin",
+            "character": "Tim / Bob / Mark / Phil / Stuart (voice)"
+        }
+    ],
+    "directors": [
+        {
+            "id": 124747,
+            "name": "Pierre Coffin"
+        },
+        {
+            "id": 124748,
+            "name": "Chris Renaud"
+        }
+    ],
+    "_note": "All data in English"
+}

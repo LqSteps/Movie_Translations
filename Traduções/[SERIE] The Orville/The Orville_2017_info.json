@@ -1,0 +1,67 @@
+{
+    "id": 71738,
+    "type": "tv",
+    "title": "The Orville",
+    "original_title": "The Orville",
+    "release_date": "2017-09-10",
+    "overview": "Follow the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.",
+    "vote_average": 7.621,
+    "popularity": 15.2249,
+    "genres": [
+        "Drama",
+        "Comedy",
+        "Sci-Fi & Fantasy"
+    ],
+    "runtime": null,
+    "number_of_seasons": 3,
+    "status": "Returning Series",
+    "cast": [
+        {
+            "id": 52139,
+            "name": "Seth MacFarlane",
+            "character": "Capt. Ed Mercer"
+        },
+        {
+            "id": 88995,
+            "name": "Adrianne Palicki",
+            "character": "Cmdr. Kelly Grayson"
+        },
+        {
+            "id": 1218219,
+            "name": "Penny Johnson Jerald",
+            "character": "Dr. Claire Finn"
+        },
+        {
+            "id": 35091,
+            "name": "Scott Grimes",
+            "character": "Lt. Gordon Malloy"
+        },
+        {
+            "id": 1444816,
+            "name": "Peter Macon",
+            "character": "Lt. Cmdr. Bortus"
+        },
+        {
+            "id": 130782,
+            "name": "Jessica Szohr",
+            "character": "Talla Keyali"
+        },
+        {
+            "id": 1817724,
+            "name": "J. Lee",
+            "character": "John LaMarr"
+        },
+        {
+            "id": 1817726,
+            "name": "Mark Jackson",
+            "character": "Isaac"
+        },
+        {
+            "id": 1080862,
+            "name": "Anne Winters",
+            "character": "Charly Burke"
+        }
+    ],
+    "directors": [],
+    "_note": "All data in English"
+}

@@ -1,0 +1,76 @@
+{
+    "id": 681,
+    "type": "movie",
+    "title": "Diamonds Are Forever",
+    "original_title": "Diamonds Are Forever",
+    "release_date": "1971-12-14",
+    "overview": "Diamonds are stolen only to be sold again in the international market. James Bond infiltrates a smuggling mission to find out who's guilty. The mission takes him to Las Vegas where Bond meets his archenemy Blofeld.",
+    "vote_average": 6.4,
+    "popularity": 4.1296,
+    "genres": [
+        "Action",
+        "Thriller"
+    ],
+    "runtime": 120,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 738,
+            "name": "Sean Connery",
+            "character": "James Bond"
+        },
+        {
+            "id": 10190,
+            "name": "Jill St. John",
+            "character": "Tiffany Case"
+        },
+        {
+            "id": 10074,
+            "name": "Charles Gray",
+            "character": "Ernst Stavro Blofeld"
+        },
+        {
+            "id": 10191,
+            "name": "Lana Wood",
+            "character": "Plenty O'Toole"
+        },
+        {
+            "id": 10192,
+            "name": "Jimmy Dean",
+            "character": "Willard Whyte"
+        },
+        {
+            "id": 3244,
+            "name": "Bruce Cabot",
+            "character": "Albert R. Saxby"
+        },
+        {
+            "id": 10193,
+            "name": "Putter Smith",
+            "character": "M. Kidd"
+        },
+        {
+            "id": 10194,
+            "name": "Bruce Glover",
+            "character": "M. Wint"
+        },
+        {
+            "id": 10195,
+            "name": "Norman Burton",
+            "character": "Felix Leiter"
+        },
+        {
+            "id": 10196,
+            "name": "Joseph Fürst",
+            "character": "Professeur Docteur Metz"
+        }
+    ],
+    "directors": [
+        {
+            "id": 9915,
+            "name": "Guy Hamilton"
+        }
+    ],
+    "_note": "All data in English"
+}

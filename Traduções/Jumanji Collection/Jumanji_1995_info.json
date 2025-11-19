@@ -1,0 +1,77 @@
+{
+    "id": 8844,
+    "type": "movie",
+    "title": "Jumanji",
+    "original_title": "Jumanji",
+    "release_date": "1995-12-15",
+    "overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+    "vote_average": 7.242,
+    "popularity": 2.4984,
+    "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family"
+    ],
+    "runtime": 104,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 2157,
+            "name": "Robin Williams",
+            "character": "Alan Parrish"
+        },
+        {
+            "id": 205,
+            "name": "Kirsten Dunst",
+            "character": "Judy Shepherd"
+        },
+        {
+            "id": 145151,
+            "name": "Bradley Pierce",
+            "character": "Peter Shepherd"
+        },
+        {
+            "id": 5149,
+            "name": "Bonnie Hunt",
+            "character": "Sarah Whittle"
+        },
+        {
+            "id": 8537,
+            "name": "Jonathan Hyde",
+            "character": "Samuel Alan Parrish / Van Pelt"
+        },
+        {
+            "id": 10739,
+            "name": "Bebe Neuwirth",
+            "character": "Nora Shepherd"
+        },
+        {
+            "id": 58563,
+            "name": "David Alan Grier",
+            "character": "Carl Bentley"
+        },
+        {
+            "id": 46530,
+            "name": "Adam Hann-Byrd",
+            "character": "Young Alan"
+        },
+        {
+            "id": 1276,
+            "name": "Patricia Clarkson",
+            "character": "Carol Anne Parrish"
+        },
+        {
+            "id": 56523,
+            "name": "Laura Bell Bundy",
+            "character": "Young Sarah"
+        }
+    ],
+    "directors": [
+        {
+            "id": 4945,
+            "name": "Joe Johnston"
+        }
+    ],
+    "_note": "All data in English"
+}

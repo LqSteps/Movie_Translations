@@ -1,0 +1,76 @@
+{
+    "id": 767,
+    "type": "movie",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "original_title": "Harry Potter and the Half-Blood Prince",
+    "release_date": "2009-07-15",
+    "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+    "vote_average": 7.682,
+    "popularity": 16.9435,
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "runtime": 153,
+    "number_of_seasons": null,
+    "status": "Released",
+    "cast": [
+        {
+            "id": 10980,
+            "name": "Daniel Radcliffe",
+            "character": "Harry Potter"
+        },
+        {
+            "id": 10989,
+            "name": "Rupert Grint",
+            "character": "Ron Weasley"
+        },
+        {
+            "id": 10990,
+            "name": "Emma Watson",
+            "character": "Hermione Granger"
+        },
+        {
+            "id": 388,
+            "name": "Jim Broadbent",
+            "character": "Horace Slughorn"
+        },
+        {
+            "id": 5658,
+            "name": "Michael Gambon",
+            "character": "Albus Dumbledore"
+        },
+        {
+            "id": 10993,
+            "name": "Tom Felton",
+            "character": "Draco Malfoy"
+        },
+        {
+            "id": 4566,
+            "name": "Alan Rickman",
+            "character": "Severus Snape"
+        },
+        {
+            "id": 10991,
+            "name": "Bonnie Wright",
+            "character": "Ginny Weasley"
+        },
+        {
+            "id": 234924,
+            "name": "Jessie Cave",
+            "character": "Lavender Brown"
+        },
+        {
+            "id": 140367,
+            "name": "Evanna Lynch",
+            "character": "Luna Lovegood"
+        }
+    ],
+    "directors": [
+        {
+            "id": 11343,
+            "name": "David Yates"
+        }
+    ],
+    "_note": "All data in English"
+}

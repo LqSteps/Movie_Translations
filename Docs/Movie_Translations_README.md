@@ -1,185 +1,140 @@
-# Módulo de Traduções
+# Movie_Translations
 
-Serviço Python automatizado para extração de metadados multilíngues (títulos traduzidos e sinopses) de filmes e séries via TMDB API e Google Sheets.
+Serviço Python automatizado para extração de metadados multilíngues (títulos, sinopses) de **filmes, séries, temporadas e episódios** via TMDB API, organizando os arquivos em subpastas por collections e temporadas.
 
 ## Visão Geral
 
-O Módulo de Traduções lê títulos de filmes/séries de uma planilha Google Sheets, busca cada item no TMDB e extrai **todas as traduções disponíveis** (títulos e sinopses), além de metadados completos e créditos **em inglês**. O sistema diferencia automaticamente entre filmes e séries.
-
-## Fonte de Dados
-
-### Planilha Google Sheets
-
-**URL da Planilha**: [https://docs.google.com/spreadsheets/d/1Mj8CovNSu03bpWnIGp_JntDUhxw5KjLRhbfqr8VfsHk/export?format=csv](https://docs.google.com/spreadsheets/d/1Mj8CovNSu03bpWnIGp_JntDUhxw5KjLRhbfqr8VfsHk/export?format=csv)
-
-**Formato Suportado**: 
-
-- Coluna única com títulos de filmes/séries
-- Formatos aceitos:
-  - `Nome do Filme (2024)`
-  - `Nome do Filme - 2024`
-  - `Nome do Filme` (sem ano)
+O Módulo de Traduções lê títulos da planilha Google Sheets, busca cada item no TMDB (usando **Collections** para franquias), e extrai **todas as traduções disponíveis** para filmes, séries, temporadas e episódios. O sistema também armazena metadados completos e créditos em inglês.
 
 ## Funcionalidades Principais
 
-### Busca Inteligente
+- **Collections Automáticas**: Detecta franquias como James Bond, Harry Potter, etc.
+- **Busca Hierárquica**: Extrai traduções para Série → Temporada → Episódio
+- **Multi-formato**: Salva dados em `.json` e `.csv`
+- **Estrutura Organizada**: Cria subpastas para collections, séries e temporadas
+- **Popularidade Mínima**: Filtra resultados com popularidade >= 5.0
 
-- **Detecção automática** de tipo (filme vs. série)
-- **Extração de ano** via regex de padrões `(YYYY)` ou `- YYYY`
-- **Busca com ano** para maior precisão
-- **Fallback sem ano** se não encontrar com ano especificado
-- **Validação de ano** entre resultado e planilha
+### Formatos de Input Suportados
 
-### Metadados Extraídos
+| Formato | Descrição | Exemplo | Resultado |
+|---------|-----------|---------|-----------|
+| `Nome` | Busca collection primeiro, senão todas as versões | `James Bond` | Toda a collection (25+ filmes) |
+| `Nome - YYYY` | Filme específico do ano | `Batman - 2022` | Apenas The Batman (2022) |
+| `Nome - s1` | Série, temporada 1 (com episódios) | `Severance - s1` | Temporada 1 + todos os episódios |
+| `Nome - s` | Série, todas as temporadas (com episódios) | `Breaking Bad - s` | Todas temporadas + episódios |
 
-#### Traduções (Multilíngues)
-
-- Título traduzido em cada idioma disponível
-- Sinopse traduzida em cada idioma disponível
-- Código ISO do idioma (`iso_639_1`)
-- Código ISO do país (`iso_3166_1`)
-- Nome do idioma em inglês
-
-#### Informações Principais (Inglês)
-
-- **Detalhes básicos**: título original, data lançamento, sinopse
-- **Métricas**: nota média, contagem de votos, popularidade
-- **Classificação**: idioma original, adulto (sim/não), status
-- **Gêneros**: lista de gêneros em inglês
-- **Filmes**: duração (runtime)
-- **Séries**: número de temporadas e episódios
-
-#### Créditos (Inglês)
-
-- **Elenco principal**: Top 10 atores com personagem e ordem
-- **Diretores**: Todos os diretores creditados
-- **IDs TMDB**: Para todos os membros do elenco/crew
-
-## Estrutura do Projeto
+### Estrutura de Pastas Organizada
 
 ```
-Movie_Translations/
-├── venv/                           # Ambiente virtual (já configurado)
-├── main.py                         # Script principal
-├── Traduções/                      # Diretório de saída
-│   ├── {filme}_{ano}_translations.json
-│   ├── {filme}_{ano}_translations.csv
-│   ├── {filme}_{ano}_info.json
-│   ├── [SERIE]_{serie}_{ano}_translations.json
-│   ├── [SERIE]_{serie}_{ano}_translations.csv
-│   └── [SERIE]_{serie}_{ano}_info.json
-└── movie-translations.service      # Arquivo systemd
+Traduções/
+├── James Bond Collection/
+│   ├── Casino_Royale_2006_info.json
+│   ├── Casino_Royale_2006_translations.json
+│   ├── Casino_Royale_2006_translations.csv
+│   ├── Skyfall_2012_info.json
+│   └── ...
+└── [SERIE] Severance/
+    ├── Season 1/
+    │   ├── Season_info.json
+    │   ├── Season_translations.json
+    │   ├── Season_translations.csv
+    │   └── Episodes/
+    │       ├── E01_info.json
+    │       ├── E01_translations.json
+    │       ├── E01_translations.csv
+    │       ├── E02_info.json
+    │       └── ...
+    └── Season 2/
+        ├── Season_info.json
+        └── Episodes/
+            └── ...
 ```
 
 ## Formato dos Arquivos de Saída
 
-### 1. `{nome}_translations.json`
+### `_translations.json`
 
 ```json
 [
   {
-    "titulo_original": "The Matrix",
-    "tmdb_id": 603,
-    "tipo": "movie",
+    "titulo_original": "Severance",
+    "tmdb_id": 95396,
+    "tipo": "tv_episode",
+    "season": 1,
+    "episode": 1,
     "idioma": "pt",
     "pais": "BR",
     "nome_idioma": "Portuguese",
-    "titulo_traduzido": "Matrix",
-    "sinopse_traduzida": "Um hacker descobre a verdade..."
-  },
-  {
-    "idioma": "es",
-    "pais": "ES",
-    "nome_idioma": "Spanish",
-    "titulo_traduzido": "Matrix",
-    "sinopse_traduzida": "Un hacker descubre la verdad..."
+    "titulo_traduzido": "Boas Novas Sobre o Inferno",
+    "sinopse_traduzida": "Mark S. leva uma nova funcionária..."
   }
 ]
 ```
 
-### 2. `{nome}_translations.csv`
+### `_info.json`
 
-Mesmos dados em formato CSV para fácil importação em planilhas.
+Contém metadados completos em inglês (gêneros, elenco, diretores, etc.).
 
-### 3. `{nome}_info.json`
-
+**Exemplo de Filme:**
 ```json
 {
-  "id": 603,
+  "id": 370172,
   "type": "movie",
-  "title": "The Matrix",
-  "original_title": "The Matrix",
-  "release_date": "1999-03-30",
-  "overview": "A computer hacker learns...",
-  "vote_average": 8.2,
-  "vote_count": 23456,
-  "popularity": 58.934,
-  "original_language": "en",
-  "adult": false,
-  "genres": ["Action", "Science Fiction"],
-  "runtime": 136,
-  "status": "Released",
-  "cast": [
-    {
-      "id": 6384,
-      "name": "Keanu Reeves",
-      "character": "Neo",
-      "order": 0
-    }
-  ],
-  "directors": [
-    {
-      "id": 899,
-      "name": "Lana Wachowski",
-      "job": "Director"
-    }
-  ],
-  "_note": "All data in English. Use translations.json for localized content."
+  "title": "No Time to Die",
+  "genres": ["Action", "Adventure", "Thriller"],
+  "cast": [{"id": 8784, "name": "Daniel Craig"}],
+  "directors": [{"id": 39189, "name": "Cary Joji Fukunaga"}],
+  "_note": "All data in English"
+}
+```
+
+**Exemplo de Episódio:**
+```json
+{
+  "id": 1999279,
+  "type": "tv_episode",
+  "season_number": 1,
+  "episode_number": 1,
+  "name": "Good News About Hell",
+  "overview": "Mark Scout leads a new hire...",
+  "air_date": "2022-02-18",
+  "runtime": 57,
+  "_note": "All data in English"
 }
 ```
 
 ## Endpoints TMDB Utilizados
 
-1. **`/search/movie`** - Busca de filmes (language=en-US)
-2. **`/search/tv`** - Busca de séries (language=en-US)
-3. **`/{type}/{id}/translations`** - Todas as traduções
-4. **`/{type}/{id}`** - Detalhes completos (language=en-US)
-5. **`/{type}/{id}/credits`** - Elenco e crew (language=en-US)
+1. **`/search/collection`** - Busca de collections (franquias)
+2. **`/collection/{id}`** - Filmes de uma collection
+3. **`/search/multi`** - Busca combinada de filmes e séries
+4. **`/tv/{id}`** e **`/tv/{id}/season/{num}`** - Detalhes de série e temporada
+5. **`/tv/{id}/season/{num}/episode/{ep_num}`** - Detalhes de episódio
+6. **`/translations`** - Traduções para cada tipo (filme, série, temporada, episódio)
+7. **`/credits`** - Elenco e diretores (apenas para filmes e séries)
 
-## Instalação e Configuração
+## Instalação do Serviço Systemd
 
-### Ambiente Virtual (Já Incluído)
-
-O repositório já possui um ambiente virtual (`venv/`) com todas as dependências instaladas. Para ativar:
+Para configurar o serviço para rodar automaticamente:
 
 ```bash
-# Linux/Mac
-source venv/bin/activate
+# 1. Criar link simbólico do arquivo de serviço
+sudo ln -s /caminho/para/repositorio/Services/movie-translations.service /etc/systemd/system/
 
-# Windows
-venv\Scripts\activate
+# 2. Recarregar daemon do systemd
+sudo systemctl daemon-reload
+
+# 3. Habilitar serviço para iniciar no boot
+sudo systemctl enable movie-translations.service
+
+# 4. Iniciar serviço
+sudo systemctl start movie-translations.service
+
+# 5. Verificar status
+sudo systemctl status movie-translations.service
 ```
 
-### Dependências
-
-```
-pandas
-requests
-```
-
-### Configuração da API
-
-A chave da API do TMDB está hardcoded no script:
-
-```python
-TMDB_API_KEY = "20c117664b56c63145516208a9dd5f5f"
-```
-
-Para alterar, edite a variável no arquivo `main.py`.
-
-## Execução
-
-### Execução Manual
+## Execução Manual
 
 ```bash
 # Ativar venv
@@ -188,107 +143,3 @@ source venv/bin/activate
 # Executar
 python3 main.py
 ```
-
-### Saída de Exemplo
-
-```
-📥 Baixando planilha...
-Colunas: ['Filmes']
-Total de linhas: 150
-
-[1/150] 🎬 The Matrix (1999)
-  🎬 Buscando como filme...
-  ✓ Filme encontrado: The Matrix (1999)
-  ✓ 42 traduções encontradas
-  📊 Obtendo detalhes em inglês...
-  👥 Obtendo créditos em inglês...
-     10 atores | 2 diretores
-  💾 Traduções: /GitHub/Repos/Movie_Translations/Traduções/The_Matrix_1999_translations.json
-  💾 Info (EN): /GitHub/Repos/Movie_Translations/Traduções/The_Matrix_1999_info.json
-
-[2/150] 🎬 Breaking Bad (2008)
-  🎬 Buscando como filme...
-  📺 Buscando como série...
-  ✓ Série encontrada: Breaking Bad (2008)
-  ✓ 38 traduções encontradas
-  ...
-
-============================================================
-✓ 6300 traduções exportadas
-✓ 120 filmes processados
-✓ 28 séries processadas
-⚠ 2 itens pulados
-============================================================
-```
-
-## Configuração como Serviço Systemd
-
-O repositório inclui `movie-translations.service`. Para configurar:
-
-```bash
-# Criar link simbólico
-sudo ln -s /caminho/absoluto/Movie_Translations/movie-translations.service /etc/systemd/system/
-
-# Recarregar daemon
-sudo systemctl daemon-reload
-
-# Habilitar no boot
-sudo systemctl enable movie-translations
-
-# Iniciar serviço
-sudo systemctl start movie-translations
-
-# Verificar status
-sudo systemctl status movie-translations
-
-# Ver logs
-sudo journalctl -u movie-translations -f
-```
-
-## Nomenclatura de Arquivos
-
-### Filmes
-
-- `The_Matrix_1999_translations.json`
-- `The_Matrix_1999_translations.csv`
-- `The_Matrix_1999_info.json`
-
-### Séries (Prefixo `[SERIE]_`)
-
-- `[SERIE]_Breaking_Bad_2008_translations.json`
-- `[SERIE]_Breaking_Bad_2008_translations.csv`
-- `[SERIE]_Breaking_Bad_2008_info.json`
-
-## Idiomas Suportados
-
-O sistema extrai **todos os idiomas disponíveis** no TMDB para cada filme/série. Idiomas comuns incluem:
-
-pt-BR, en-US, es-ES, es-MX, fr-FR, de-DE, it-IT, ja-JP, ko-KR, zh-CN, zh-TW, ru-RU, ar-SA, hi-IN, pl-PL, nl-NL, sv-SE, tr-TR, th-TH, vi-VN, id-ID, e muitos outros.
-
-## Rate Limiting
-
-O script inclui delay de **0.3 segundos** entre requisições para respeitar limites da API do TMDB.
-
-## Tratamento de Erros
-
-- **Filme não encontrado**: Tenta como série automaticamente
-- **Ano não bate**: Tenta sem ano como fallback
-- **Sem traduções**: Pula item e continua
-- **Erros de rede**: Exibe traceback e continua processamento
-
-## Integração
-
-Este módulo trabalha em conjunto com **Movie_Thumbnails** para fornecer solução completa de conteúdo multilíngue.
-
-## Recursos da API
-
-- **TMDB API Docs**: https://developers.themoviedb.org/3
-- **Translations Endpoint**: https://developers.themoviedb.org/3/movies/get-movie-translations
-
-## Notas Importantes
-
-- ✅ Detalhes e créditos são **sempre em inglês** (`language=en-US`)
-- ✅ Traduções incluem **todos os idiomas** disponíveis no TMDB
-- ✅ Séries são marcadas com prefixo `[SERIE]_`
-- ✅ Ano é validado entre planilha e resultado TMDB
-- ✅ Top 10 atores ordenados por importância

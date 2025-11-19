@@ -1,0 +1,54 @@
+titulo_original,tmdb_id,tipo,season,episode,idioma,pais,nome_idioma,titulo_traduzido,sinopse_traduzida
+Stranger Things,66732,tv_episode,3,1,en,US,English,"Chapter One: Suzie, Do You Copy?","Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong."
+Stranger Things,66732,tv_episode,3,1,sv,SE,Swedish,"Suzie, hör du mig?","Sommaren för med sig nya jobb och en spirande romans, men stämningen förändras när Dustins radio plockar upp en rysk radiosignal och Will anar att något är fel."
+Stranger Things,66732,tv_episode,3,1,bs,BS,Bosnian,,
+Stranger Things,66732,tv_episode,3,1,de,DE,German,"Kapitel eins: Suzie, hörst du mich?","Der Sommer hat neue Jobs und eine aufkeimende Romanze zu bieten. Doch als Dustins Radio einen russischen Sender empfängt und Will Lunte riecht, kippt die Stimmung."
+Stranger Things,66732,tv_episode,3,1,fr,FR,French,"Chapitre un : Suzie, tu me reçois ?","Avec l'été, on prend un nouveau job, on tombe amoureux... Mais un étrange message radio capté par Dustin et une inquiétante réaction de Will cassent toute l'ambiance."
+Stranger Things,66732,tv_episode,3,1,es,ES,Spanish,"Suzie, ¿me recibes?",Con el verano llegan nuevos trabajos y un amor incipiente. Pero todo cambia cuando la radio de Dustin capta una emisión en ruso y Will presiente que algo va mal.
+Stranger Things,66732,tv_episode,3,1,zh,CN,Mandarin,苏西，能听到吗？,夏季带来了新的工作和萌发的恋情。但当达斯汀的收音机收到一条俄语广播后，氛围却发生了变化。威尔察觉到有点不对劲。
+Stranger Things,66732,tv_episode,3,1,pt,BR,Portuguese,"Capítulo um: Está me ouvindo, Suzie?",O verão é época de trabalhos temporários e novos namoros. Mas o clima muda quando Will percebe algo de errado na transmissão em russo captada pelo rádio de Dustin.
+Stranger Things,66732,tv_episode,3,1,ru,RU,Russian,"Первая глава. Сьюзи, прием!","Лето приносит новую работу и новую любовь. Однако настроение меняется, когда Дастин перехватывает радиосигнал от русских, и Уилл чувствует, что что-то не так."
+Stranger Things,66732,tv_episode,3,1,pl,PL,Polish,"Rozdział pierwszy: Suzie, słyszysz mnie?","Przychodzi lato, a z nim nowe zajęcia i uczucia. Szybko jednak robi się mniej wesoło, gdy Dustin przechwytuje w radiu rosyjską wiadomość, a Will wyczuwa coś złego."
+Stranger Things,66732,tv_episode,3,1,cs,CZ,Czech,"Kapitola první: Suzie, slyšíme se?","Léto je tu a s ním i nová práce a začínající láska. Nálada se ale mění ve chvíli, kdy Dustinovo rádio zachytí vysílání v ruštině. Will cítí, že něco není v pořádku."
+Stranger Things,66732,tv_episode,3,1,it,IT,Italian,"Capitolo uno: Suzie, mi ricevi?",Con l'estate arrivano nuovi lavori e sboccia l'amore. Ma l'atmosfera cambia quando la radio di Dustin capta un messaggio russo e Will percepisce che qualcosa non va.
+Stranger Things,66732,tv_episode,3,1,da,DK,Danish,"Kap. 1: Suzie, kan du høre mig?","Sommeren byder på nye jobs og en spirende romance. Men stemningen skifter, da Dustins radio opsnapper en russisk udsendelse, og Will fornemmer, at noget er galt."
+Stranger Things,66732,tv_episode,3,1,hu,HU,Hungarian,"Első fejezet: Suzie, hallasz?","A nyár új feladatokat és új szerelmeket hoz, de megváltozik a hangulat, amikor Dustin rádiója befog egy orosz adást. Will úgy érzi, valami nincs rendben."
+Stranger Things,66732,tv_episode,3,1,uk,UA,Ukrainian,"Глава 1. Сьюзі, прийом!","Літо приносить нову роботу й нове кохання. Але настрій змінюється, коли радіо Дастіна ловить російську хвилю, а Вілл відчуває дещо недобре."
+Stranger Things,66732,tv_episode,3,1,id,ID,Indonesian,"Bab Satu: Suzie, Kau Dengar?","Musim panas membawa banyak tugas baru dan benih-benih asmara. Namun, suasana berubah saat radio Dustin menangkap siaran berbahasa Rusia, dan Will merasa ada yang janggal."
+Stranger Things,66732,tv_episode,3,1,el,GR,Greek,"Κεφάλαιο Πρώτο: Σούζι, Με Λαμβάνεις;","Το καλοκαίρι ανοίγει νέους επαγγελματικούς και ερωτικούς ορίζοντες. Όμως, η διάθεση αλλάζει όταν ο Ντάστιν ακούει Ρωσικά στο ράδιο και ο Γουίλ διαισθάνεται κάτι κακό."
+Stranger Things,66732,tv_episode,3,1,he,IL,Hebrew,"פרק 1: סוזי, שומעת?","הקיץ מביא עימו עבודות ואהבות חדשות, אבל מצב הרוח משתנה כשדסטין קולט במכשיר הקשר שלו שידור ברוסית, וויל חש שמשהו אינו כשורה."
+Stranger Things,66732,tv_episode,3,1,zh,TW,Mandarin,第 1 章：呼叫蘇西,夏日迎來新的工作與正在萌芽的戀情。然而，當達斯汀的收音機收到一段俄文廣播訊息，夏日的氛圍就變了調。威爾則感覺到有些事情不太對勁。
+Stranger Things,66732,tv_episode,3,1,lt,LT,Lithuanian,,
+Stranger Things,66732,tv_episode,3,1,sk,SK,Slovak,"Kapitola prvá: Suzie, počuješ ma?","Leto je tu a s ním aj nová práca a začínajúci láska. Nálada sa ale mení vo chvíli, keď Dustinové rádio zachytí vysielanie v ruštine. Will cíti, že niečo nie je v poriadku."
+Stranger Things,66732,tv_episode,3,1,tr,TR,Turkish,"Suzie, Duyuyor musun?","Yaz, yeni işler ve filizlenen bir aşkla gelir. Ama Dustin'in radyosu Rusça bir yayın yakalayıp Will bir şeylerin yanlış gittiğini hissedince hava değişir."
+Stranger Things,66732,tv_episode,3,1,sr,RS,Serbian,,
+Stranger Things,66732,tv_episode,3,1,es,MX,Spanish,"Capítulo uno: ¿Me copias, Suzie?",Con el verano llegan nuevos trabajos y un amor incipiente. Pero todo cambia cuando la radio de Dustin capta una emisión en ruso y Will presiente que algo va mal.
+Stranger Things,66732,tv_episode,3,1,nl,NL,Dutch,"Hoofdstuk 1: Suzie, Do You Copy?","De zomer brengt nieuw werk en ontluikende liefde met zich mee, maar de sfeer verandert als Dustins radio een Russisch bericht ontvangt en Will voelt dat er iets mis is."
+Stranger Things,66732,tv_episode,3,1,pt,PT,Portuguese,"Capítulo um: Suzie, estás aí?",As novidades do verão não incluem apenas romances recentes e novos empregos: Dustin interceta uma mensagem em russo e Will sente que alguma coisa não está bem.
+Stranger Things,66732,tv_episode,3,1,hr,HR,Croatian,"Prvo poglavlje: Suzie, čuješ li me?","Ljeto donosi nove poslove i začetak nove ljubavi. No raspoloženje se promijeni kad Dustinov radio uhvati ruski prijenos, a Will osjeti da nešto nije u redu."
+Stranger Things,66732,tv_episode,3,1,ro,RO,Romanian,"Capitolul unu: Suzie, ești pe recepție?","Vara aduce cu ea noi oportunități și tinere iubiri. Însă totul se schimbă după ce radioul lui Dustin prinde o transmisiune rusească, iar Will simte că ceva e în neregulă."
+Stranger Things,66732,tv_episode,3,1,fr,CA,French,"Chapitre un : Suzie, tu me reçois?","L'été annonce l'arrivée de nouveaux boulots et de l'amour, mais le vent tourne quand la radio de Dustin capte un message russe et que Will sent que quelque chose cloche."
+Stranger Things,66732,tv_episode,3,1,bg,BG,Bulgarian,"Глава 1: Сузи, имаме ли връзка?",
+Stranger Things,66732,tv_episode,3,1,no,NO,Norwegian,"Kapittel én: Suzie, hører du meg?","Med sommeren kommer nye jobber og en ny romanse, men stemningen snur når radioen til Dustin plukker opp en russisk kringkasting og Will føler at noe er galt."
+Stranger Things,66732,tv_episode,3,1,fi,FI,Finnish,"Ensimmäinen luku: Kuuleeko Suzie, kuuntelen","Kesällä puhaltavat uudet tuulet niin työ- kuin rakkausasioissakin. Tunnelma kuitenkin muuttuu, kun Dustinin radiosta kuuluu venäläinen lähetys ja Will aavistaa pahaa."
+Stranger Things,66732,tv_episode,3,1,ko,KR,Korean,무전,"호킨스의 여름, 새로운 시작과 로맨스의 계절. 하지만 뭔가 잘못돼가고 있다. 문득 사악한 기운을 느끼는 윌. 그리고 아무도 없는 어둠 속에서 기이한 바람이 불어온다."
+Stranger Things,66732,tv_episode,3,1,fa,IR,Persian,,
+Stranger Things,66732,tv_episode,3,1,ar,SA,Arabic,فصل 1: هل تسمعينني، يا سوزي؟,"يحلّ الصيف جالبًا وظائف جديدة ورومانسية وليدة، بيد أن هذا المزاج يتغيّر حينما يلتقط مذياع ""داستن"" بثًا روسيًا، ويشعر ""ويل"" بأن ثمة خطبًا ما."
+Stranger Things,66732,tv_episode,3,1,vi,VN,Vietnamese,"Tập một: Suzie, nghe rõ không?",Mùa hè đem đến những công việc mới và mối tình chớm nở. Nhưng không khí thay đổi khi radio của Dustin bắt được sóng phát thanh của người Nga và Will cảm thấy điều bất ổn.
+Stranger Things,66732,tv_episode,3,1,ja,JP,Japanese,第1章 スージー、応答せよ,仕事に励む者や恋する者でにぎわう夏。だが、ダスティンが無線でロシア語の交信を傍受し、ウィルが異変を感じ始めた時、町は不穏な空気に包まれる。
+Stranger Things,66732,tv_episode,3,1,th,TH,Thai,บทที่ 1: ซูซี่ ทราบแล้วเปลี่ยน,หน้าร้อนมาพร้อมงานใหม่ๆ และความรักสุดเบ่งบาน แต่สถานการณ์กลับเปลี่ยนไปเมื่อวิทยุของดัสตินจับสัญญาณกระจายเสียงภาษารัสเซียได้ ส่วนวิลรู้สึกว่ามีบางสิ่งผิดปกติ
+Stranger Things,66732,tv_episode,3,1,ka,GE,Georgian,,
+Stranger Things,66732,tv_episode,3,1,uz,UZ,Uzbek,,
+Stranger Things,66732,tv_episode,3,1,ar,AE,Arabic,فصل 1: هل تسمعينني، يا سوزي؟,"يحلّ الصيف جالبًا وظائف جديدة ورومانسية وليدة، بيد أن هذا المزاج يتغيّر حينما يلتقط مذياع ""داستن"" بثًا روسيًا، ويشعر ""ويل"" بأن ثمة خطبًا ما."
+Stranger Things,66732,tv_episode,3,1,eu,ES,Basque,"Lehenengo kapitulua: Suzie, entzuten nauzu?",Udarekin batera lan berriak eta maitasun koskorra datoz. Baina dena aldatzen da Dustin-en irratiak errusieraz emititzen duenean eta Will-ek zerbait gaizki dagoela sumatzen duenean.
+Stranger Things,66732,tv_episode,3,1,so,SO,Somali,,
+Stranger Things,66732,tv_episode,3,1,bn,BD,Bengali,,
+Stranger Things,66732,tv_episode,3,1,nl,BE,Dutch,"Hoofdstuk 1: Suzie, Do You Copy?","De zomer brengt nieuw werk en ontluikende liefde met zich mee, maar de sfeer verandert als Dustins radio een Russisch bericht ontvangt en Will voelt dat er iets mis is."
+Stranger Things,66732,tv_episode,3,1,zh,HK,Mandarin,第 1 章：呼叫蘇西,夏日迎來新的工作與正在萌芽的戀情。然而，當達斯汀的收音機收到一段俄文廣播訊息，夏日的氛圍就變了調。威爾則感覺到有些事情不太對勁。
+Stranger Things,66732,tv_episode,3,1,zh,SG,Mandarin,第一集：苏西，能听到吗？,夏季带来了新的工作和萌发的恋情。但当达斯汀的收音机收到一条俄语广播后，氛围却发生了变化。威尔察觉到有点不对劲。
+Stranger Things,66732,tv_episode,3,1,sl,SI,Slovenian,,
+Stranger Things,66732,tv_episode,3,1,hi,IN,Hindi,"चैप्टर एक: सूज़ी, समझ आ गया?","गर्मियों का मौसम के आने पर नए काम और रोमांस सामने आते हैं. लेकिन माहौल तब बदल जाता है जब डस्टिन का रेडियो एक रशियन प्रसारण पकड़ लेता है, और विल को कहीं कुछ गड़बड़ लगती है."
+Stranger Things,66732,tv_episode,3,1,ms,MY,Malay,"Babak Satu: Suzie, Dengar Tak?",Musim panas membawa pekerjaan baru dan percintaan berputik. Namun suasana berubah apabila radio Dustin menerima siaran Rusia dan Will perasan ada sesuatu yang tak kena.
+Stranger Things,66732,tv_episode,3,1,tl,PH,Tagalog,"Chapter One: Rinig Mo Ba Ako, Suzie?","May dala ang summer na bagong trabaho at romance. Pero nagbago ang mood nang makatanggap ang radyo ni Dustin ng Russian broadcast, at may mali ayon sa palagay ni Will."
+Stranger Things,66732,tv_episode,3,1,lv,LV,Latvian,,
+Stranger Things,66732,tv_episode,3,1,de,AT,German,,
